@@ -35,6 +35,6 @@
     <br />
     <img
       height="170em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barbaraishioka&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraishioka&layout=compact&theme=nord" />
   </div>
 </div>
