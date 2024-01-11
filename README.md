@@ -13,9 +13,9 @@
   <br />
   <div align="left" style="max-width: 520px">
     <h2>Eu sou Bárbara Ishioka!</h2>
-    <h3 style="font-weight: bold">Desenvolvedora FullStack</h3>
+    <h3 style="font-weight: bold">Desenvolvedora Web</h3>
     <p>
-      No momento eu estudo programação <strong>FullStack</strong> e busco minha
+      No momento eu estudo programação <strong>Web</strong> e busco minha
       primeira vaga na área! Estou cursando faculdade de Análise e
       Desenvolvimento de Sistemas e estou disponível para vagas de estágio,
       trainee e junior.
