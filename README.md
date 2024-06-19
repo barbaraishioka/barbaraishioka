@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hello World 👋</h1>
+<h2>Sou Bárbara Ishioka 😊</h2>
 
-<!--
-**barbaraishioka/barbaraishioka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Desenvolvedora Full-stack | Suporte Técnico</h3>
 
-Here are some ideas to get you started:
+<p>
+  Profissional com experiência em gestão de operações, controle de
+  produtividade, suporte técnico e desenvolvimento Full-stack.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💻 Linguagens: HTML, CSS e JavaScript.</p>
+<p>
+  🔧 Ferramentas: Node.js, Express, MongoDB, Prisma.io, GitHub, GitBash, VSCode
+  e Figma.
+</p>
+<p>🧠 Soft skills: Liderança, trabalho em equipe e comunicação.</p>
+
+<p>
+  Entre em contato comigo:
+  <a href="https://www.linkedin.com/in/barbaraishioka/">LinkedIn</a>
+</p>
+
+<br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraishioka&layout=compact&theme=radical"
+  alt="Top Langs"
+/>
