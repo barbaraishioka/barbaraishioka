@@ -1,7 +1,7 @@
 <h1>Hello World 👋</h1>
 <h2>Sou Bárbara Ishioka 😊</h2>
 
-<h3>Desenvolvedora Full-stack | Suporte Técnico</h3>
+<h3>Desenvolvedora Web e Suporte Técnico em TI</h3>
 
 <p>
   Profissional com experiência em gestão de operações, controle de
