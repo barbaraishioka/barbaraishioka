@@ -8,7 +8,7 @@
   produtividade, suporte técnico e desenvolvimento Full-stack.
 </p>
 
-<p>💻 Linguagens: HTML, CSS e JavaScript.</p>
+<p>💻 Linguagens: HTML, CSS, JavaScript e React.</p>
 <p>
   🔧 Ferramentas: Node.js, Express, MongoDB, Prisma.io, GitHub, GitBash, VSCode
   e Figma.
