@@ -5,7 +5,7 @@
 
 <p>
   Profissional com experiência em gestão de operações, controle de
-  produtividade, suporte técnico e desenvolvimento Full-stack.
+  produtividade, suporte técnico e desenvolvimento web.
 </p>
 
 <p>💻 Linguagens: HTML, CSS, JavaScript e React.</p>
